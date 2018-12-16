@@ -1,0 +1,38 @@
+h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}
+h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}
+hr{box-sizing:content-box;height:0;overflow:visible}
+hr{border:0;border-top:1px solid #eee;margin:20px 0}
+img{border-style:none}
+img{vertical-align:middle}
+*:before,*:after{box-sizing:inherit}
+.three{float:left;width:25%}
+.twThird{float:right;width:70%}
+.lightGrey{color:#000!important;background-color:#f1f1f1!important}
+.marginTop{margin-top:16px!important}.w3-margin-bottom{margin-bottom:16px!important}
+.marginBottom{margin-bottom:16px!important}
+.container:after,.container:before,.rowPadding:after,.rowPadding:before,{content:"";display:table;clear:both}
+.opacity,.opacityhover:hover{opacity:0.60}
+.rowPadding,.rowPadding>.hlf,.rowPadding>.three,.rowPadding>.twThird{padding:0 8px}
+.whity{color:#000!important;background-color:#fff!important}
+.grey_Text{color:#757575!important}
+.padding16{padding-top:16px!important;padding-bottom:16px!important}
+.crd{box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)}
+.cards{box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)}
+.containerDisplay{position:relative}
+.containerDisplay:hover{display:block}.containerDisplay:hover
+.bottomLeftDisplay{position:absolute;left:0;bottom:0}
+.container{padding:0.01em 16px}
+.blacktext{color:#000!important}
+.container:after,.container:before,.rowPadding:after,.rowPadding:before{content:"";display:table;clear:both}
+.rightMargin{margin-right:16px!important}
+.bigFont{font-size:18px!important}
+img{border-style:none}.largeXX{font-size:45px!important}
+.tealTex{color:#941A25!important}
+.xtraLarge{border-radius:16px}
+.smallFont{font-size:12px!important}
+.teal{color:#fff!important;background-color:#941A25!important}
+.centre{text-align:center!important}
+.centre{display:inline-block;width:auto}
+.centre{text-align:center}
+.textWhite{color:#fff!important}
+footer{background-color: #941A25;text-align: center; clear: both}
